@@ -38,7 +38,7 @@ class CreateAPIkeyView(generics.GenericAPIView):
     """
 
     serializer_class = UserSerializer
-    # throttle_classes = [BurstRateThrottle, DailyRateThrottle]
+    throttle_classes = [BurstRateThrottle, DailyRateThrottle]
 
     def post(self, request, *args, **kwargs):
         serializer = self.get_serializer(data=request.data)
@@ -82,7 +82,7 @@ class SearchNewsView(generics.ListAPIView):
     Rate limit: 100 requests/hora
     """
 
-    # throttle_classes = [BurstRateThrottle, DailyRateThrottle]
+    throttle_classes = [BurstRateThrottle, DailyRateThrottle]
     authentication_classes = [ApiKeyAuthentication]
     serializer_class = NewsSerializer
     filter_backends = [SearchFilter]
@@ -118,7 +118,7 @@ class CategoryNewsView(generics.ListAPIView):
     Rate limit: 100 requests/hora
     """
 
-    # throttle_classes = [BurstRateThrottle, DailyRateThrottle]
+    throttle_classes = [BurstRateThrottle, DailyRateThrottle]
     authentication_classes = [ApiKeyAuthentication]
     serializer_class = NewsSerializer
     pagination_class = NewsPagination
