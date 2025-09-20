@@ -3,7 +3,7 @@ import sys
 import time
 
 import django
-import schedule
+
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "core.settings")
@@ -98,12 +98,6 @@ def fetch_news() -> None:
 
 
 if __name__ == "__main__":
-    print("Iniciante task:")
-
-    schedule.every(2).hours.do(fetch_news)
-    schedule.every(2).hours.do(fetch_news_category)
-
-    print("⏰ Cron iniciado!")
-    while True:
-        schedule.run_pending()
-        time.sleep(60)
+    fetch_news()
+    time.sleep(5)
+    fetch_news_category()
