@@ -3,10 +3,12 @@ import sys
 import time
 
 import django
+import schedule
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "core.settings")
 django.setup()
+
 
 from api.models import News
 from integrations.gnews import GnewsAPI
@@ -38,7 +40,7 @@ def fetch_news_category() -> None:
             try:
                 for new in news_processed:
 
-                    News.objects.create(
+                    News.objects.get_or_create(
                         title=new["title"],
                         description=new["description"],
                         content=new["content"],
@@ -49,7 +51,7 @@ def fetch_news_category() -> None:
                         source=new["source"],
                     )
 
-                time.sleep(2)
+                time.sleep(5)
 
             except Exception as err:
                 print(f"Erro ao salva noticia {new['title']}: {err}")
@@ -75,7 +77,7 @@ def fetch_news() -> None:
 
             try:
                 for new in news_processed:
-                    News.objects.create(
+                    News.objects.get_or_create(
                         title=new["title"],
                         description=new["description"],
                         content=new["content"],
@@ -85,7 +87,7 @@ def fetch_news() -> None:
                         category=new["category"],
                         source=new["source"],
                     )
-
+                    time.sleep(5)
             except Exception as err:
                 print(f"Erro ao salva noticia {new['title']} : {err}")
         else:
@@ -96,4 +98,12 @@ def fetch_news() -> None:
 
 
 if __name__ == "__main__":
-    fetch_news_category()
+    print("Iniciante task:")
+
+    schedule.every(2).hours.do(fetch_news)
+    schedule.every(2).hours.do(fetch_news_category)
+
+    print("⏰ Cron iniciado!")
+    while True:
+        schedule.run_pending()
+        time.sleep(60)
