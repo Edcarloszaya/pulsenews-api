@@ -1,0 +1,1187 @@
+[
+{
+  "model": "api.news",
+  "pk": 1,
+  "fields": {
+    "title": "Viña, do Flamengo, confirma instrução de 4° árbitro para técnico do Estudiantes",
+    "description": "A arbitragem de Andrés Rojas no Maracanã, durante a partida entre Flamengo e Estudiantes pela Libertadores, foi alvo de muitas críticas",
+    "content": "A arbitragem de Andrés Rojas no Maracanã, durante a partida entre Flamengo e Estudiantes pela Libertadores, foi alvo de muitas críticas por parte dos rubro-negros. Uma cena, no entanto, do 4° árbitro Jhon Ospina, chamou a atenção. Matías Viña, latera... [1555 chars]",
+    "url": "https://www.lance.com.br/flamengo/vina-do-flamengo-confirma-instrucao-de-4-arbitro-para-tecnico-do-estudiantes.html",
+    "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,fit=cover,format=webp/uploads/2025/09/arbitro-aspect-ratio-512-320.png",
+    "published_at": "2025-09-19T04:30:12Z",
+    "category": "geral",
+    "source": "LANCE!",
+    "created": "2025-09-19T16:45:35.806Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 2,
+  "fields": {
+    "title": "Plata detona Libertadores após expulsão no Flamengo",
+    "description": "Plata foi expulso após sofrer falta em jogo do Flamengo contra o Estudiantes",
+    "content": "Plata publicou mensagem no Instagram\nExpulso na reta final do primeiro jogo das quartas de final da Copa Libertadores da América, Gonzalo Plata foi às redes sociais protestar contra a arbitragem. O equatoriano recebeu o vermelho quando o Flamengo ven... [1233 chars]",
+    "url": "https://colunadofla.com/2025/09/plata-quebra-silencio-e-detona-conmebol-apos-expulsao-em-jogo-do-flamengo-na-libertadores/",
+    "image_url": "https://colunadofla.com/wp-content/uploads/2025/09/plata-flamengo.jpg",
+    "published_at": "2025-09-19T04:02:55Z",
+    "category": "geral",
+    "source": "Coluna do Fla",
+    "created": "2025-09-19T16:45:35.813Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 3,
+  "fields": {
+    "title": "Veja quais peões garantiram imunidade na primeira Roça de A Fazenda 17",
+    "description": "Cinco competidores levaram a melhor na disputa que exigiu agilidade e concentração",
+    "content": "A primeira Roça de A Fazenda 17 está chegando e a peãozada faz qualquer negócio para escapar dos temidos banquinhos. Nesta quinta (18), um desafio especial agitou a sede e garantiu imunidade aos cinco peões que mandaram melhor no Campo de Provas: Niz... [2289 chars]",
+    "url": "https://record.r7.com/a-fazenda/a-fazenda-17/novidades/veja-quais-peoes-garantiram-imunidade-na-primeira-roca-de-a-fazenda-17-19092025/",
+    "image_url": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3JONEJDFIFB5VBFTJK53P5LT7U.png?smart=true&auth=69977dc54606f5eb8c622b4f1dd5eec2725c88a543a0b91b034174b4172bf182&width=1200&height=630",
+    "published_at": "2025-09-19T03:13:19Z",
+    "category": "geral",
+    "source": "R7",
+    "created": "2025-09-19T16:45:35.816Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 4,
+  "fields": {
+    "title": "Álvaro Montoro é convocado pela Argentina para a Copa do Mundo Sub",
+    "description": "O meia-atacante Álvaro Montoro foi convocado pela seleção da Argentina para a Copa do Mundo Sub-20 e pode desfalcar o Botafogo por até um mês no Campeonato...",
+    "content": "O meia-atacante Álvaro Montoro foi convocado pela seleção da Argentina para a Copa do Mundo Sub-20 e pode desfalcar o Botafogo por até um mês no Campeonato Brasileiro. A lista foi divulgada na noite desta quinta-feira (18/9).\nMontoro pode desfalcar o... [735 chars]",
+    "url": "https://www.fogaonet.com/noticias-do-botafogo/alvaro-montoro-convocado-argentina-copa-do-mundo-sub-20-pode-desfalcar-botafogo-contra-atletico-mg/",
+    "image_url": "https://i.fogaonet.com/crop/q:90/rs:fill:1200:630:1/g:ce/plain/wp-content/uploads/2025/09/54795049755-4fff96d565-o-scaled-e1758250924527.jpg",
+    "published_at": "2025-09-19T03:02:33Z",
+    "category": "geral",
+    "source": "FogãoNET",
+    "created": "2025-09-19T16:45:35.818Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 5,
+  "fields": {
+    "title": "Brasil tem 12% mais boi do que gente e 305 ovos por habitante; veja números agro",
+    "description": "Dados de 2024 também apontam que o rebanho de galinhas foi recorde para a série do IBGE.",
+    "content": "Gado pasta no município de Assis (AC), na Amazônia. Imagem é de 1º de novembro de 2007. — Foto: AP Photo/Silvia Izquierdo\nO Brasil tem 12% mais bovinos do que gente. É o que mostram dados de 2024 da Pesquisa da Pecuária Municipal (PPM), divulgada na ... [2753 chars]",
+    "url": "https://g1.globo.com/economia/agronegocios/noticia/2025/09/19/brasil-tem-12percent-mais-bovinos-do-que-gente-e-305-ovos-por-habitante-veja-numeros-agro.ghtml",
+    "image_url": "https://s2-g1.glbimg.com/Pf92zS_NI68T1M00hz-kPfmEcXs=/3504x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/6/l/1hosWcT0i0s6vYQP32Bw/ap071101054030.jpg",
+    "published_at": "2025-09-19T03:00:31Z",
+    "category": "geral",
+    "source": "G1",
+    "created": "2025-09-19T16:45:35.821Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 6,
+  "fields": {
+    "title": "Flamengo aposta em Varela contra Estudiantes",
+    "description": "Veja resultados, notícias, entrevistas, fotos, vídeos e os bastidores do esporte. Acompanhe ao vivo os principais eventos esportivos no Brasil e do mundo.",
+    "content": "O técnico Filipe Luís escalou o Flamengo com Varela entre os titulares para a partida de hoje, contra o Estudiantes, às 21h30, no Maracanã, pelo jogo de ida das quartas de final da Libertadores.\nO que aconteceu\nO lateral direito uruguaio está recuper... [1174 chars]",
+    "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2025/09/18/escalacao-flamengo-aposta-em-varela-no-lugar-de-royal-contra-estudiantes.htm",
+    "image_url": "https://conteudo.imguol.com.br/c/esporte/01/2025/07/28/varela-do-flamengo-em-jogo-contra-o-atletico-mg-pelo-brasileirao-1753706229779_v2_615x300.jpg",
+    "published_at": "2025-09-19T02:54:05Z",
+    "category": "geral",
+    "source": "UOL",
+    "created": "2025-09-19T16:45:35.823Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 7,
+  "fields": {
+    "title": "Mais de 2 meses sem notícia: mãe acha filhos que sumiram com o pai em MG",
+    "description": "Crianças foram entregues à mãe nesta quinta-feira (18/9) em Uberlândia, no Triângulo Mineiro",
+    "content": "Os irmãos Fábio de Paula Gomes Filho, de 7 anos, e Ana Júlia de Paula Gomes, de 5, foram entregues à mãe, Klissia Santos Silva, nesta quinta-feira (18/9), em Uberlândia (MG), no Triângulo Mineiro, após mais de dois meses de separação. A mulher não te... [2403 chars]",
+    "url": "https://www.em.com.br/gerais/2025/09/7251902-mais-de-2-meses-sem-noticia-mae-acha-filhos-que-sumiram-com-o-pai-em-mg.html",
+    "image_url": "https://midias.em.com.br/_midias/jpg/2025/09/18/fotojet---2025-09-18t222748-358-59195201.jpg",
+    "published_at": "2025-09-19T02:43:00Z",
+    "category": "geral",
+    "source": "Estado de Minas",
+    "created": "2025-09-19T16:45:35.826Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 8,
+  "fields": {
+    "title": "Mereceu? Renata Ruel dá veredito em expulsão de Plata em Flamengo x Estudiantes",
+    "description": "A arbitragem foi alvo de críticas na vitória do Flamengo sobre o Estudiantes por 2 a 1, nesta quarta-feira, no Maracanã, pela Libertadores.",
+    "content": "A arbitragem foi alvo de críticas na vitória do Flamengo sobre o Estudiantes por 2 a 1, nesta quarta-feira (18), no Maracanã, pela Libertadores. Durante a transmissão da partida, pela ESPN, a especialista Renata Ruel apontou um erro claro na expulsão... [2565 chars]",
+    "url": "https://www.lance.com.br/fora-de-campo/mereceu-renata-ruel-da-varedito-em-expulsao-de-plata-em-flamengo-x-estudiantes.html",
+    "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,fit=cover,format=webp/uploads/2025/09/renata-ruel-min-aspect-ratio-512-320.jpeg",
+    "published_at": "2025-09-19T02:38:33Z",
+    "category": "geral",
+    "source": "LANCE!",
+    "created": "2025-09-19T16:45:35.828Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 9,
+  "fields": {
+    "title": "Com início avassalador, Flamengo vence Estudiantes, mas sofre gol no fim pelas quartas da Libertadores",
+    "description": "Com Pedro marcando o gol mais rápido do rubro-negro na história da competição, time de Filipe Luís sente expulsão de Plata e abre pequena vantagem no confronto",
+    "content": "O time de Filipe Luís começou em ritmo acelerado e não deu tempo para o adversário respirar. Plata encontrou Pedro, que girou sobre Núñez com elegância e finalizou de esquerda para marcar o gol mais rápido da história do clube na Libertadores. O Estu... [1024 chars]",
+    "url": "https://extra.globo.com/esporte/flamengo/noticia/2025/09/com-inicio-avassalador-flamengo-vence-estudiantes-mas-sofre-gol-no-fim-pelas-quartas-da-libertadores.ghtml",
+    "image_url": "https://s2-extra.glbimg.com/ZIrtm3-eOuQ9kbMK21qUzt0XDTI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2025/N/k/CqWxKDSVGgagi0L1wj4w/whatsapp-image-2025-09-18-at-23.29.05.jpeg",
+    "published_at": "2025-09-19T02:27:42Z",
+    "category": "geral",
+    "source": "Extra online",
+    "created": "2025-09-19T16:45:35.830Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 10,
+  "fields": {
+    "title": "'Lance clássico'",
+    "description": "O Flamengo venceu o Estudiantes por 2 a 1, nesta quinta-feira (18), no Maracanã, pelo jogo de ida das quartas de final da Copa Libertadores.",
+    "content": "O Flamengo venceu o Estudiantes por 2 a 1, nesta quinta-feira (18), no Maracanã, pelo jogo de ida das quartas de final da Copa Libertadores. Durante os 90 minutos, o jornalista Vitor Sérgio Rodrigues, da TNT Sports, apontou um erro da arbitragem. Par... [2500 chars]",
+    "url": "https://www.lance.com.br/fora-de-campo/jornalista-ve-erro-de-arbitragem-em-flamengo-x-estudiantes-lance-classico.html",
+    "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,fit=cover,format=webp/uploads/2025/09/Samuel-Lino-x-Estudiantes-scaled-aspect-ratio-512-320.jpg",
+    "published_at": "2025-09-19T02:25:07Z",
+    "category": "geral",
+    "source": "LANCE!",
+    "created": "2025-09-19T16:45:35.832Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 13,
+  "fields": {
+    "title": "Danilo toma atitude severa com árbitro de jogo do Flamengo x Estudiantes",
+    "description": "Danilo se recusa a cumprimentar juiz após arbitragem vergonhosa em jogo do Flamengo; veja atitude de Danilo em jogo do Flamengo",
+    "content": "Qual foi a atitude de Danilo em jogo do Flamengo x Estudiantes (ARG)?\nA arbitragem foi motivo de bastante reclamação por parte do Flamengo em jogo contra o Estudiantes (ARG), pela ida das quartas da Libertadores. Por conta desse motivo, inclusive, Da... [1292 chars]",
+    "url": "https://colunadofla.com/2025/09/danilo-se-recusa-a-cumprimentar-juiz-apos-arbitragem-vergonhosa-em-jogo-do-flamengo/",
+    "image_url": "https://colunadofla.com/wp-content/uploads/2025/09/danilo-flamengo-x-estudiantes-libertadores-maracana.png",
+    "published_at": "2025-09-19T02:41:12Z",
+    "category": "esportes",
+    "source": "Coluna do Fla",
+    "created": "2025-09-19T16:45:37.992Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 15,
+  "fields": {
+    "title": "Onde assistir ao vivo Flamengo x Estudiantes pela Libertadores",
+    "description": "Flamengo x Estudiantes se enfrentam pelo jogo de ida das quartas de final da Copa Libertadores da América 2025.",
+    "content": "Flamengo x Estudiantes jogam na noite desta quinta-feira (18), às 21h30min (de Brasília), no Estádio do Maracanã, no Rio de Janeiro (RJ), pelo jogo de ida das quartas de final da Copa Libertadores 2025.\nContinua depois da publicidade\nQuem são os arti... [1355 chars]",
+    "url": "https://www.nsctotal.com.br/noticias/onde-assistir-ao-vivo-flamengo-x-estudiantes-pela-libertadores-2025",
+    "image_url": "https://img.nsctotal.com.br/wp-content/uploads/2025/09/Onde-assistir-ao-vivo-Flamengo-x-Estudiantes-pela-Libertadores-2025.jpg",
+    "published_at": "2025-09-19T02:30:00Z",
+    "category": "esportes",
+    "source": "NSC Total",
+    "created": "2025-09-19T16:45:37.997Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 18,
+  "fields": {
+    "title": "Onde assistir ao vivo Guatemala x Brasil pela Copa das Nações",
+    "description": "Guatemala x Brasil se enfrentam pela segunda rodada da fase de grupos da Copa das Nações de Futsal Masculino 2025.",
+    "content": "Guatemala x Brasil jogam na noite desta quinta-feira (18), às 20h15min (de Brasília), no Ginásio Nilson Nelson, em Brasília, pela segunda rodada da fase de grupos da Copa das Nações de Futsal Masculino 2025.\nContinua depois da publicidade\nVeja fotos ... [1423 chars]",
+    "url": "https://www.nsctotal.com.br/noticias/onde-assistir-ao-vivo-guatemala-x-brasil-pela-copa-das-nacoes-de-futsal",
+    "image_url": "https://img.nsctotal.com.br/wp-content/uploads/2025/09/Onde-assistir-ao-vivo-Guatemala-x-Brasil-pela-Copa-das-Nacoes-de-Futsal-4.jpg",
+    "published_at": "2025-09-19T01:15:00Z",
+    "category": "esportes",
+    "source": "NSC Total",
+    "created": "2025-09-19T16:45:38.003Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 19,
+  "fields": {
+    "title": "Artilharia da Champions por país: Inglaterra larga na liderança, e Brasil abre disputa em segundo",
+    "description": "Brasucas famosos e pouco conhecidos brilham na rodada inaugural da Liga dos Campeões com seis gols, mesma quantidade da Alemanha e um a menos que os ingleses",
+    "content": "Está aberta a temporada do Ranking de artilharia por país da Liga dos Campeões 2025/26. Em busca do terceiro troféu simbólico, o Brasil fechou a rodada #1 em segundo lugar, com seis gols marcados - mesmo número da Alemanha. Apenas a Inglaterra teve r... [2300 chars]",
+    "url": "https://ge.globo.com/cartola/noticia/2025/09/18/artilharia-da-champions-por-pais-inglaterra-larga-na-lideranca-e-brasil-abre-disputa-em-segundo.ghtml",
+    "image_url": "https://s2-ge.glbimg.com/pfdGc92_z4EVqFFhfpJiT2Sfvd8=/4423x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/F/1/LAX91uRlADtdiL6ZlFIA/gettyimages-2235979160.jpg",
+    "published_at": "2025-09-19T00:06:43Z",
+    "category": "esportes",
+    "source": "GE",
+    "created": "2025-09-19T16:45:38.005Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 20,
+  "fields": {
+    "title": "Comentarista se revolta com titular do São Paulo em gol da LDU: 'Inacreditável'",
+    "description": "A LDU abriu o placar contra o São Paulo no confronto, desta quinta-feira (18), pelas quartas de final da Copa Libertadores.",
+    "content": "A LDU abriu o placar contra o São Paulo no confronto, desta quinta-feira (18), em Quito, no Equador, pelas quartas de final da Copa Libertadores. Ao analisar o lance do gol do clube equatoriano, o comentaista João Pedro Sgarbi, da Band, apontou um er... [3233 chars]",
+    "url": "https://www.lance.com.br/fora-de-campo/comentarista-se-revolta-com-titular-do-sao-paulo-em-gol-da-ldu-inacreditavel.html",
+    "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,fit=cover,format=webp/uploads/2025/09/Gol-da-LDU-scaled-aspect-ratio-512-320.jpg",
+    "published_at": "2025-09-19T00:05:31Z",
+    "category": "esportes",
+    "source": "LANCE!",
+    "created": "2025-09-19T16:45:38.007Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 21,
+  "fields": {
+    "title": "Receita Federal usará IA para cruzar CINTER e CIB e notificar quem mora de favor a partir de janeiro de 2026",
+    "description": "A partir de janeiro de 2026, a Receita Federal passará a usar inteligência artificial para cruzar informações do CINTER (Cadastro Nacional de Imóveis Rurais e Urbanos) e da CIB (Cadastro de Imóveis Brasileiros). O sistema terá como foco notificar contribuintes que residem em imóveis de terceiros sem contrato registrado ou sem informar pagamento de aluguel.",
+    "content": "A Receita Federal começará a utilizar inteligência artificial em 2026 para identificar quem mora em imóveis de terceiros sem declarar aluguel ou contrato formal.\nA partir de janeiro de 2026, a Receita Federal passará a usar inteligência artificial pa... [3630 chars]",
+    "url": "https://clickpetroleoegas.com.br/receita-federal-usara-ia-para-cruzar-cinter-e-cib-e-notificar-quem-mora-de-favor-a-partir-de-janeiro-de-2026-mhbb01/",
+    "image_url": "https://clickpetroleoegas.com.br/wp-content/uploads/2025/09/Receita-Federal-usara-IA-para-cruzar-CINTER-e-CIB-e-notificar-quem-mora-de-favor-a-partir-de-janeiro-de-2026.jpg",
+    "published_at": "2025-09-16T21:53:00Z",
+    "category": "tecnologia",
+    "source": "CPG Click Petróleo e Gás",
+    "created": "2025-09-19T16:45:40.170Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 22,
+  "fields": {
+    "title": "VÍDEO: Câmera flagra grave acidente em rodovia de SC; Colisão deixou um ferido em estado crítico; Assista",
+    "description": "Caminhão invade pista contrária e colide com carreta em Ilhota; condutor de 62 anos foi socorrido de helicóptero",
+    "content": "Um grave acidente interditou completamente a SC-412, em Ilhota, na manhã desta terça-feira (16), após a colisão entre um caminhão Mercedes-Benz Accelo 1016 e uma carreta Scania P360. Segundo a Polícia Militar Rodoviária, o acidente ocorreu por volta ... [685 chars]",
+    "url": "https://clicrdc.com.br/transito/video-camera-flagra-grave-acidente-em-rodovia-de-sc-colisao-deixou-um-ferido-em-estado-critico-assista/",
+    "image_url": "https://files.clicrdc.com.br/wp-content/uploads/2025/09/Na-manha-desta-terca-feira-16-o-condutor-de-um-Scania-P360-transitava-pela-SC-412-por-volta--e1758054558693.webp",
+    "published_at": "2025-09-16T20:36:59Z",
+    "category": "tecnologia",
+    "source": "ClicRDC",
+    "created": "2025-09-19T16:45:40.176Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 23,
+  "fields": {
+    "title": "Como funciona o Discord, onde suspeito teria confessado matar Kirk",
+    "description": "Confira em Tilt a tecnologia do dia a dia com um olhar brasileiro. Tem Whatsapp e outros apps, celulares, 4G e inovação com dicas, reviews, análises e mais.",
+    "content": "A estrutura da plataforma é baseada em \"servidores\" criados pelos próprios usuários. Cada servidor funciona como um fórum temático, com canais de bate-papo privados ou públicos. Essa descentralização e a ausência de uma moderação ativa permitiram o s... [3868 chars]",
+    "url": "https://www.uol.com.br/tilt/noticias/redacao/2025/09/16/como-funciona-o-discord-onde-suspeito-de-matar-kirk-teria-confessado-crime.htm",
+    "image_url": "https://conteudo.imguol.com.br/c/noticias/2b/2023/04/13/logotipo-da-plataforma-de-mensagens-discord-1681413225170_v2_615x300.jpg",
+    "published_at": "2025-09-16T20:33:20Z",
+    "category": "tecnologia",
+    "source": "UOL",
+    "created": "2025-09-19T16:45:40.179Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 24,
+  "fields": {
+    "title": "Jogo gratuito skate. é liberado no Steam",
+    "description": "Novo jogo da série está em acesso antecipado gratuito.",
+    "content": "Lançado hoje em acesso antecipado pela EA, o jogo gratuito skate. já pode ser jogado de graça por todos no Steam.\nSegundo os desenvolvedores, skate. é uma evolução da franquia premiada skate, que chega em acesso antecipado no Steam.\nRecepção Mista no... [663 chars]",
+    "url": "https://gameplayscassi.com.br/noticias/jogo-gratuito-skate-e-liberado-no-steam/107552/",
+    "image_url": "http://gameplayscassi.com.br/wp-content/uploads/2025/09/skate.jpg",
+    "published_at": "2025-09-16T20:18:11Z",
+    "category": "tecnologia",
+    "source": "Gameplayscassi",
+    "created": "2025-09-19T16:45:40.181Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 25,
+  "fields": {
+    "title": "Fluminense campeão? IA revela quem vai ganhar a Sul-Americana 2025",
+    "description": "A Inteligência Artificial já decretou quem deve ser o grande campeão da Sul-Americana 2025. Será que o Fluminense levanta a taça?",
+    "content": "O Fluminense é um dos dois clubes brasileiros que ainda estão na disputa pelo título da Sul-Americana 2025. Inclusive, o Tricolor das Laranjeiras entre em campo nesta terça-feira (16), às 21h30min, em Buenos Aires, para encarar o Lanús, na primeira p... [937 chars]",
+    "url": "https://www.netflu.com.br/fluminense-campeao-ia-revela-quem-vai-ganhar-a-sul-americana-2025/",
+    "image_url": "https://www.netflu.com.br/wp-content/uploads/2025/09/54731734922_ff8133b886_k.jpg",
+    "published_at": "2025-09-16T20:13:51Z",
+    "category": "tecnologia",
+    "source": "netflu.com.br",
+    "created": "2025-09-19T16:45:40.184Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 26,
+  "fields": {
+    "title": "Pode usar celular no semáforo? Veja o que é multado por câmeras",
+    "description": "Valor da multa, segundo o Código de Trânsito, pode chegar a R$ 293,47 e custar sete pontos na CNH",
+    "content": "Pode usar celular no semáforo? Veja ações multadas por câmeras\nValor da multa, segundo o Código de Trânsito, pode chegar a R$ 293,47 e custar sete pontos na CNH\nO Código de Trânsito Brasileiro (CTB) proíbe o manuseio de celulares por condutores de ve... [2794 chars]",
+    "url": "https://www.opovo.com.br/noticias/fortaleza/2025/09/16/pode-usar-celular-no-semaforo-veja-acoes-multadas-por-cameras.html",
+    "image_url": "https://www.opovo.com.br/_midias/jpg/2025/09/16/750x500/1_manifestacao_de_motoristas_de_aplicativo_na_amc_27-36834388.jpg",
+    "published_at": "2025-09-16T19:25:00Z",
+    "category": "tecnologia",
+    "source": "O POVO",
+    "created": "2025-09-19T16:45:40.186Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 27,
+  "fields": {
+    "title": "Inteligência artificial flagra três pedófilos com pornografia infantil",
+    "description": "Tecnologia foi usada pela PCGO e o MPGO em operação que acabou com prisões em Goiânia e no Entorno do Distrito Federal",
+    "content": "O uso de tecnologia da Inteligência de Artificial (IA) flagrou e levou a prisão de três pedófilos com pornografia infantil em Goiânia e no Entorno do Distrito Federal, nesta terça-feira (16). A IA foi usada durante a Operação Anjo da Aguarda, da Polí... [1124 chars]",
+    "url": "https://www.metropoles.com/distrito-federal/entorno/inteligencia-artificial-flagra-tres-pedofilos-com-pornografia-infantil",
+    "image_url": "https://uploads.metroimg.com/wp-content/uploads/2025/09/16130452/inteligencia-artificial-prisao-tres-pedofilos.jpg",
+    "published_at": "2025-09-16T19:16:16Z",
+    "category": "tecnologia",
+    "source": "Metrópoles",
+    "created": "2025-09-19T16:45:40.188Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 28,
+  "fields": {
+    "title": "No que exatamente as empresas de IA vão gastar US$ 325 bi até o fim do ano? Entenda",
+    "description": "Amazon, Microsoft, Google, Meta e OpenAI planejam gastar mais de R$ 1 trilhão na busca pela inteligência artificial. Nós explicamos por que eles estão fazendo isso",
+    "content": "Publicidade\nSAN FRANCISCO — Sam Altman, CEO da OpenAI, não esconde o quanto sua empresa planeja gastar em sua busca para construir inteligência artificial.\n“Você deve esperar que a OpenAI gaste trilhões de dólares em coisas como construção de data ce... [11582 chars]",
+    "url": "https://www.infomoney.com.br/business/global/no-que-exatamente-as-empresas-de-ia-vao-gastar-us-325-bi-ate-o-fim-do-ano-entenda/",
+    "image_url": "https://www.infomoney.com.br/wp-content/uploads/2025/08/ChatGPT-e1756127480628.jpg?quality=70",
+    "published_at": "2025-09-16T19:04:52Z",
+    "category": "tecnologia",
+    "source": "InfoMoney",
+    "created": "2025-09-19T16:45:40.191Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 29,
+  "fields": {
+    "title": "Fã brasileiro faz apelo público à Nintendo por preços regionalizados no Brasil",
+    "description": "Consumidores tem criticado preços elevados para títulos e conteúdos adicionais pagos publicados pela empresa na eShop",
+    "content": "O criador de conteúdo Rodrigo Coelho publicou uma carta aberta endereçada à Nintendo em sua conta no X (antigo Twitter), pedindo que a empresa adote uma política de preços regionalizados para o mercado brasileiro. O vídeo, descrito por ele como uma m... [1821 chars]",
+    "url": "https://universonintendo.com/fa-brasileiro-faz-apelo-publico-a-nintendo-por-precos-regionalizados-no-brasil/",
+    "image_url": "https://universonintendo.com/wp-content/uploads/2024/06/Nintendo-Brasil.png",
+    "published_at": "2025-09-16T18:44:19Z",
+    "category": "tecnologia",
+    "source": "Universo Nintendo",
+    "created": "2025-09-19T16:45:40.193Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 30,
+  "fields": {
+    "title": "Estrutura de Segurança Quântica da SEC Indica",
+    "description": "SEC revisa Estrutura de Infraestrutura Financeira Pós-Quântica para proteger Bitcoin e cripto contra ameaças quânticas.",
+    "content": "A Comissão de Valores Mobiliários dos EUA está revisando uma proposta inovadora que pode remodelar como a indústria cripto se prepara para ameaças da computação quântica. A SEC está revisando uma proposta inovadora destinada a preparar o Bitcoin e o ... [7709 chars]",
+    "url": "https://www.cointribune.com/pt-br/estrutura-de-seguranca-quantica-da-sec-indica/",
+    "image_url": "https://www.cointribune.com/app/uploads/2025/09/sec-quantum-naoris.png?nowebp",
+    "published_at": "2025-09-16T18:20:00Z",
+    "category": "tecnologia",
+    "source": "Cointribune",
+    "created": "2025-09-19T16:45:40.195Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 32,
+  "fields": {
+    "title": "aposta de MS fatura R$ 34 mil na quina; prêmio acumula",
+    "description": "Apostador de Campo Grande acertou cinco números no concurso 2.916 da Mega-Sena. Prêmio principal acumulou e vai pagar R$ 40 milhões no próximo sorteio.",
+    "content": "Enquanto o prêmio acumula em R$ 40 milhões, uma aposta sul-mato-grossense levou o prêmio de R$ 34.291,78 ao acertar cinco das seis dezenas sorteadas no concurso 2.916 da Mega-Sena. Os números 5, 11, 16, 27, 40 e 45 compuseram o sorteio, efetivado nes... [1245 chars]",
+    "url": "https://www.campograndenews.com.br/economia/loterias/aposta-de-ms-fatura-quina-de-r-34-mil-em-sorteio-acumulado-da-mega-sena",
+    "image_url": "https://cdn6.campograndenews.com.br/uploads/noticias/2025/09/18/2cqer18qdzpe.png",
+    "published_at": "2025-09-19T02:51:00Z",
+    "category": "negócios",
+    "source": "campograndenews.com.br",
+    "created": "2025-09-19T16:45:42.358Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 33,
+  "fields": {
+    "title": "Linha de crédito para reformas terá subsídio de R$ 7,3 bi",
+    "description": "Famílias com renda de até R$ 3.200 tomarão empréstimo com juro a 1,17% ao mês",
+    "content": "O governo de Luiz Inácio Lula da Silva (PT) calcula um subsídio de R$ 7,3 bilhões para bancar a linha de crédito para reformas habitacionais, uma das apostas do presidente para fazer um aceno à classe média nas proximidades do ano eleitoral.\nO subsíd... [5046 chars]",
+    "url": "https://www1.folha.uol.com.br/mercado/2025/09/linha-de-credito-para-reformas-tera-subsidio-de-r-73-bi-veja-as-regras-do-novo-programa.shtml",
+    "image_url": "https://f.i.uol.com.br/fotografia/2025/02/13/173948784867ae7a68da20e_1739487848_3x2_xl.jpg",
+    "published_at": "2025-09-19T02:00:00Z",
+    "category": "negócios",
+    "source": "Folha de S.Paulo",
+    "created": "2025-09-19T16:45:42.361Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 34,
+  "fields": {
+    "title": "Quem opera day trade odeia dinheiro, diz Barsi",
+    "description": "Maior investidor pessoa física do Brasil compartilha dicas de investimento",
+    "content": "O maior investidor pessoa física do Brasil é tradicional. Não gosta de previdência privada, fundos imobiliários e muito menos de operações de day trade na Bolsa de Valores.\nPara Luiz Barsi Filho, 86, só existem dois tipos de aplicadores: os que amam ... [2516 chars]",
+    "url": "https://www1.folha.uol.com.br/mercado/2025/09/quem-opera-day-trade-odeia-dinheiro-diz-barsi.shtml",
+    "image_url": "https://f.i.uol.com.br/fotografia/2025/09/18/175823959868cc9b6e8786c_1758239598_3x2_xl.jpg",
+    "published_at": "2025-09-19T02:00:00Z",
+    "category": "negócios",
+    "source": "Folha de S.Paulo",
+    "created": "2025-09-19T16:45:42.363Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 35,
+  "fields": {
+    "title": "Exportações de alimentos caem em agosto por causa de tarifaço dos EUA",
+    "description": "Açúcares, proteínas e preparações alimentícias foram os mais afetados. China e México aumentaram compras.",
+    "content": "Balanço da Associação Brasileira da Indústria de Alimentos (ABIA) registrou queda de US$ 300 milhões na exportação de alimentos industrializados em agosto, equivalente a redução de 4,8% em com comparação a julho.\nSegundo o levantamento, as exportaçõe... [3456 chars]",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/exportacoes-de-alimentos-caem-em-agosto-por-causa-de-tarifaco-dos-eua",
+    "image_url": "https://imagens.ebc.com.br/h7oJMGSjtp9yUQ-FQSk5I1UfqJs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20.05.2020.supermercado_rio_de_janeiro_0520203149.jpg?itok=GeL5onL8",
+    "published_at": "2025-09-19T01:34:00Z",
+    "category": "negócios",
+    "source": "Agência Brasil",
+    "created": "2025-09-19T16:45:42.366Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 36,
+  "fields": {
+    "title": "Veja os números sorteados no concurso 2916 da Mega-Sena, com prêmio de R$ 33 milhões",
+    "description": "A Caixa Econômica Federal sorteia nesta quinta-feira (18) o concurso 2916 da Mega-Sena. O prêmio para quem acertar as 6 dezenas sorteadas é de R$ 33",
+    "content": "A Caixa Econômica Federal sorteia nesta quinta-feira (18) o concurso 2916 da Mega-Sena. O prêmio para quem acertar as 6 dezenas sorteadas é de R$ 33 milhões. O sorteio acontece a partir das 20h e tem transmissão ao vivo pelo YouTube da Caixa.\nContinu... [846 chars]",
+    "url": "https://www.nsctotal.com.br/noticias/veja-os-numeros-sorteados-no-concurso-2916-da-mega-sena-com-premio-de-r-33-milhoes",
+    "image_url": "https://img.nsctotal.com.br/wp-content/uploads/2025/08/mega-sena-Foto-Alan-Pedro-DC-2.jpg",
+    "published_at": "2025-09-19T01:23:37Z",
+    "category": "negócios",
+    "source": "NSC Total",
+    "created": "2025-09-19T16:45:42.368Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 37,
+  "fields": {
+    "title": "Venda de mina torna China maior fornecedor mundial de níquel",
+    "description": "Confira na Gazeta do Povo: mina brasileira vendida à China acirra discussão sobre oportunidades em minerais críticos e terras raras",
+    "content": "A venda de uma mina de níquel privada brasileira à estatal chinesa Minmetals jogou holofotes sobre a escalada da disputa por minerais estratégicos, colocando o Brasil novamente entre os interesses dos Estados Unidos e da China. A polêmica também evid... [10628 chars]",
+    "url": "https://www.gazetadopovo.com.br/economia/mina-brasileira-torna-a-china-lider-em-metal-critico-e-acirra-debate-sobre-terras-raras/",
+    "image_url": "https://media.gazetadopovo.com.br/2025/09/03211522/China.jpg",
+    "published_at": "2025-09-19T01:01:00Z",
+    "category": "negócios",
+    "source": "Gazeta do Povo",
+    "created": "2025-09-19T16:45:42.370Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 38,
+  "fields": {
+    "title": "Lotofácil 3490: bolão da Grande BH acerta e fatura R$ 2,3 milhões; veja detalhes",
+    "description": "Sorteio foi realizado pela Caixa Econômica Federal na noite desta quinta-feira (18)",
+    "content": "Um bolão de Esmeraldas, na Região Metropolitana de Belo Horizonte, acertou as 15 dezenas do concurso 3490 da Lotofácil, sorteado na noite desta quinta-feira (18), e faturou um prêmio de R$ 2,1 milhões.\nO bilhete premiado foi realizado na Ótimo Loteri... [1149 chars]",
+    "url": "https://www.itatiaia.com.br/cidades/lotofacil-3490-bolao-da-grande-bh-acerta-e-fatura-r-2-3-milhoes-veja-detalhes",
+    "image_url": "https://medias.itatiaia.com.br/dims4/default/cbb3074/2147483647/strip/true/crop/1371x720+114+0/resize/1200x630!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2F6d%2Fddde057b4ccfa0f3a61ad05c9e19%2Flotofacil.jpeg",
+    "published_at": "2025-09-19T00:41:19Z",
+    "category": "negócios",
+    "source": "Rádio Itatiaia",
+    "created": "2025-09-19T16:45:42.373Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 39,
+  "fields": {
+    "title": "Mais de R$ 15 bilhões já migraram para app da carteira digital",
+    "description": "Migração para Carteira de Trabalho Digital ocorrerá até novembro.",
+    "content": "Mais de R$ 15,7 bilhões em contratos antigos de empréstimos consignados de convênio já foram migrados, até a última terça-feira (16), para a nova plataforma da Carteira de Trabalho Digital do Crédito do Trabalhador.\nAs informações foram divulgadas pe... [1542 chars]",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/mais-de-r-15-bilhoes-ja-migraram-para-app-de-credito-consignado",
+    "image_url": "https://imagens.ebc.com.br/ybvsEizsRx48_5NYTX82taeJvNo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220041_1.jpg?itok=-1jG6u6H",
+    "published_at": "2025-09-19T00:36:00Z",
+    "category": "negócios",
+    "source": "Agência Brasil",
+    "created": "2025-09-19T16:45:42.375Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 40,
+  "fields": {
+    "title": "Mega-Sena acumula de novo e prêmio vai a R$ 40 milhões; veja os números sorteados nesta quinta",
+    "description": "As apostas podem ser feitas até as 19h no dia do sorteio, em lotéricas, na internet ou no aplicativo da Caixa",
+    "content": "Ninguém acertou as seis dezenas da Mega-Sena sorteada nesta quinta-feira (18), em São Paulo. O concurso 2.916 teve os seguintes números sorteados: 05 - 11 - 16 - 27 - 40 - 45.\nCom isso, o prêmio acumulou e poderá pagar R$ 40 milhões no próximo sortei... [746 chars]",
+    "url": "https://noticias.r7.com/economia/mega-sena-acumula-de-novo-e-premio-vai-a-r-40-milhoes-veja-os-numeros-sorteados-nesta-quinta-19092025/",
+    "image_url": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/Z4KBR5ZSZNGF3OJLC2WC2A6MTY.jpeg?smart=true&auth=76fff3c13330f45340cee533223326658bb1b1d27430323367a6577c9f89b36a&width=1200&height=630",
+    "published_at": "2025-09-19T00:28:17Z",
+    "category": "negócios",
+    "source": "R7",
+    "created": "2025-09-19T16:45:42.377Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 41,
+  "fields": {
+    "title": "Aprimoramento e regulamentação do eFX",
+    "description": "O Banco Central do Brasil (BCB) publicou o Edital de Consulta Pública nº 124/2025 para receber contribuições para aprimoramento da regulamentação do - leia a notícia completa no MONITOR MERCANTIL.",
+    "content": "O Banco Central do Brasil (BCB) publicou o Edital de Consulta Pública nº 124/2025 para receber contribuições para aprimoramento da regulamentação do serviço de pagamento ou transferência internacional, conhecido como eFX.\nO termo engloba as atividade... [2259 chars]",
+    "url": "https://monitormercantil.com.br/aprimoramento-e-regulamentacao-do-efx/",
+    "image_url": "https://monitormercantil.com.br/wp-content/uploads/2020/12/Banco_Central_Foto_Marcello_Casal_Jr._ABr.png",
+    "published_at": "2025-09-20T00:42:10Z",
+    "category": "geral",
+    "source": "Monitor Mercantil",
+    "created": "2025-09-20T12:44:03.546Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 42,
+  "fields": {
+    "title": "No Brasil 63% das empresas sofreram fraudes em 2024",
+    "description": "As fraudes corporativas seguem como uma das maiores ameaças à integridade e à estabilidade financeira das empresas no Brasil. Segundo a pesquisa - leia a notícia completa no MONITOR MERCANTIL.",
+    "content": "As fraudes corporativas seguem como uma das maiores ameaças à integridade e à estabilidade financeira das empresas no Brasil. Segundo a pesquisa Diagnóstico das Fraudes no Brasil, realizada pela Grant Thornton (uma das maiores empresas globais de aud... [2825 chars]",
+    "url": "https://monitormercantil.com.br/no-brasil-63-das-empresas-sofreram-fraudes-em-2024/",
+    "image_url": "https://monitormercantil.com.br/wp-content/uploads/2025/09/Alessandro-Gratao.webp",
+    "published_at": "2025-09-20T00:39:04Z",
+    "category": "geral",
+    "source": "Monitor Mercantil",
+    "created": "2025-09-20T12:44:03.551Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 43,
+  "fields": {
+    "title": "SBT anuncia data de estreia da nova versão do 'The Voice Brasil'",
+    "description": "Competição musical será apresentada por Tiago Leifert",
+    "content": "Nova versão do ’The Voice Brasil’ ganhou data de estreia no SBT Reprodução/Instagram\nPublicado 19/09/2025 21:38\nRio - O SBT revelou nesta sexta-feira (19) a data de estreia do \"The Voice Brasil\". A disputa musical estreia dia 6 de outubro sob apresen... [444 chars]",
+    "url": "https://odia.ig.com.br/diversao/televisao/2025/09/7132379-sbt-anuncia-data-de-estreia-da-nova-versao-do-the-voice-brasil.html",
+    "image_url": "https://odia.ig.com.br/_midias/jpg/2025/09/19/1200x750/1_the_voice_brasil-37070722.jpg",
+    "published_at": "2025-09-20T00:38:52Z",
+    "category": "geral",
+    "source": "O DIA",
+    "created": "2025-09-20T12:44:03.553Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 44,
+  "fields": {
+    "title": "Estudantes de Feira de Santana representam o Brasil em conferência internacional",
+    "description": "Pesquisa aborda redes colaborativas e criação de valor público para a gestão ambiental no semiárido brasileiro.",
+    "content": "Estudantes de Feira de Santana representam o Brasil em conferência internacional na Itália — Foto: Mateus dos Santos\nO trio foi selecionado para participar do congresso 20th EIASM Interdisciplinary Conference – Intangibles, Sustainability, and Value ... [4555 chars]",
+    "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2025/09/19/estudantes-do-ifba-representam-o-brasil-em-conferencia-internacional-na-italia.ghtml",
+    "image_url": "https://s2-g1.glbimg.com/CmQuZtHdrLSnoEaiuOj4QU1ILYs=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/x/XtKlzBRVmehv7YXDEUyQ/texto-do-seu-paragrafo-2025-09-18t165727.033.png",
+    "published_at": "2025-09-20T00:37:13Z",
+    "category": "geral",
+    "source": "G1",
+    "created": "2025-09-20T12:44:03.556Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 45,
+  "fields": {
+    "title": "\"Quem nos protegerá do Congresso?\", critica a Conferência Nacional dos Bispos do Brasil",
+    "description": "\"Quem nos protegerá do Congresso?\", critica a Conferência Nacional dos Bispos do Brasil - Jornal O Sul",
+    "content": "Política “Quem nos protegerá do Congresso?”, critica a Conferência Nacional dos Bispos do Brasil\nPor Redação O Sul | 19 de setembro de 2025\nA Conferência Nacional dos Bispos do Brasil (CNBB) divulgou um pronunciamento em que critica a aprovação da ch... [2691 chars]",
+    "url": "https://www.osul.com.br/quem-nos-protegera-do-congresso-critica-a-conferencia-nacional-dos-bispos-do-brasil/",
+    "image_url": "https://www.osul.com.br/wp-content/uploads/2025/09/cnbb.jpg",
+    "published_at": "2025-09-20T00:33:46Z",
+    "category": "geral",
+    "source": "O SUL",
+    "created": "2025-09-20T12:44:03.558Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 46,
+  "fields": {
+    "title": "Haddad diz que não acompanhará Lula na Assembleia da ONU nos EUA",
+    "description": "Ministro da Fazenda afirmou que vai ficar no Brasil para priorizar as discussões, no Congresso, sobre o projeto de isenção do Imposto de Renda para quem ganha até R$ 5 mil.",
+    "content": "Haddad e Lula em evento no Planalto em 28 de julho de 2025 — Foto: REUTERS/Adriano Machado\nO ministro da Fazenda, Fernando Haddad, afirmou nesta sexta-feira (19) que não irá acompanhar o presidente Luiz Inácio Lula da Silva (PT) na Assembleia Geral d... [3170 chars]",
+    "url": "https://g1.globo.com/economia/noticia/2025/09/19/haddad-diz-que-nao-acompanhara-lula-na-assembleia-da-onu-nos-eua.ghtml",
+    "image_url": "https://s2-g1.glbimg.com/NWex5fn0VXRhl8_15mJUfR9UE1k=/4763x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/S/XM6NBPQWKnDnLbRbt1XA/2025-07-28t212150z-1687385353-rc2vvfao0twi-rtrmadp-3-usa-trump-tariffs-brazil.jpg",
+    "published_at": "2025-09-20T00:23:35Z",
+    "category": "geral",
+    "source": "G1",
+    "created": "2025-09-20T12:44:03.560Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 47,
+  "fields": {
+    "title": "Novorizontino marca nos acréscimos, derrota o Athletic e 'dorme' no G-4 da Série B",
+    "description": "Veja resultados, notícias, entrevistas, fotos, vídeos e os bastidores do esporte. Acompanhe ao vivo os principais eventos esportivos no Brasil e do mundo.",
+    "content": "Depois de espantar a má fase - onde vinha de sete jogos sem vencer - o Novorizontino voltou a frequentar o grupo de acesso da Série B do Campeonato Brasileiro, pelo menos momentaneamente. Em jogo isolado da 27ª rodada nesta sexta-feira, o time paulis... [2141 chars]",
+    "url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2025/09/19/novorizontino-marca-nos-acrescimos-derrota-o-athletic-e-dorme-no-g-4-da-serie-b.htm",
+    "image_url": "https://conteudo.imguol.com.br/c/_layout/v3/jupiter/share.png",
+    "published_at": "2025-09-20T00:20:00Z",
+    "category": "geral",
+    "source": "UOL",
+    "created": "2025-09-20T12:44:03.563Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 48,
+  "fields": {
+    "title": "Trabalho infantil: 1,6 milhão de crianças e adolescentes estavam nessa situação no Brasil em 2024",
+    "description": "Entre 2016 e 2024, o trabalho infantil caiu no país e, em 2024, o número de crianças e adolescentes em atividades de maior risco teve o menor patamar já registrado, mas ainda são 560 mil nessa situação.",
+    "content": "Número de crianças e adolescentes em trabalhos de alto risco cai para o menor patamar desde 2016\n1,6 milhão de crianças e adolescentes de 5 a 17 anos estavam em situação de trabalho infantil, no Brasil, em 2024.\nUm espaço para a criança aprender e en... [2658 chars]",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2025/09/19/trabalho-infantil-16-milhao-de-criancas-e-adolescentes-estavam-nessa-situacao-em-2024.ghtml",
+    "image_url": "https://s2-g1.glbimg.com/0TTsxeqPyYdgQcVTD3gjpUF7a2o=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/X/Bt2XiQQQ6ufeA12GFrRQ/globo-canal-5-20250919-1800-frame-303763.jpeg",
+    "published_at": "2025-09-20T00:18:04Z",
+    "category": "geral",
+    "source": "G1",
+    "created": "2025-09-20T12:44:03.565Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 49,
+  "fields": {
+    "title": "Educação superior e as prioridades para a próxima década",
+    "description": "O novo Plano Nacional de Educação avança em debates sobre a educação básica, mas pouco aborda os desafios da educação superior no Brasil.",
+    "content": "O Congresso Nacional está diante de uma tarefa fundamental para o futuro do país: definir o novo Plano Nacional de Educação (PNE). Mais do que um documento normativo, ele consiste em um instrumento estratégico que vai orientar os rumos da educação br... [5879 chars]",
+    "url": "https://www.meionews.com/noticias/colunas/janguie-diniz/educacao-superior-e-as-prioridades-para-a-proxima-decada-373103",
+    "image_url": "https://www.meionews.com/uploads/imagens/2025/9/19/webp/janguie-diniz--8f3247db52fc53be.jpg.webp",
+    "published_at": "2025-09-20T00:16:00Z",
+    "category": "geral",
+    "source": "Meio Norte",
+    "created": "2025-09-20T12:44:03.567Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 50,
+  "fields": {
+    "title": "Padilha dá lição de dignidade ao não ir aos EUA: \"sou ministro do Brasil\"",
+    "description": "Ministro da Saúde recusa restrições impostas por Donald Trump e denuncia medida que atinge não a pessoa, mas o cargo que ocupa em nome do país",
+    "content": "247 – O ministro da Saúde, Alexandre Padilha, rechaçou as condições impostas pelos Estados Unidos para que pudesse participar de compromissos oficiais em Washington. “Essas restrições não são contra mim, mas contra o ‘ministro da Saúde do Brasil’”, a... [1692 chars]",
+    "url": "https://www.brasil247.com/poder/padilha-da-licao-de-dignidade-ao-nao-ir-aos-eua-sou-ministro-do-brasil",
+    "image_url": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250530130540_f421ffc3f5efd808328254680fced493e2b4ee7a352429f129efbcac9058a1cb.jpg",
+    "published_at": "2025-09-20T00:14:06Z",
+    "category": "geral",
+    "source": "Brasil 247",
+    "created": "2025-09-20T12:44:03.569Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 51,
+  "fields": {
+    "title": "Cidade da Grande BH decreta emergência após mortes por febre maculosa",
+    "description": "Caeté é a única cidade no estado em 2025 com mortes devido à doença infecciosa, conforme boletim mais recente da Secretaria de Estado de Saúde",
+    "content": "A Prefeitura de Caeté (MG), na Região Metropolitana de Belo Horizonte, decretou situação de emergência em saúde pública no município. “A medida foi tomada após a confirmação de casos de febre maculosa em nossa cidade”, informou o Executivo na noite d... [2979 chars]",
+    "url": "https://www.em.com.br/gerais/2025/09/7252678-cidade-da-grande-bh-decreta-emergencia-apos-mortes-por-febre-maculosa.html",
+    "image_url": "https://midias.em.com.br/_midias/jpg/2025/09/19/febre-maculosa-cidade-minas-59209107.jpg?20250919211936?20250919211936",
+    "published_at": "2025-09-20T00:24:00Z",
+    "category": "geral",
+    "source": "Estado de Minas",
+    "created": "2025-09-20T12:44:03.725Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 52,
+  "fields": {
+    "title": "Oferta relâmpago: smartphone Samsung Galaxy A26 5G em promoção",
+    "description": "Conectividade 5G, 256 GB de armazenamento e câmera de 50 MP estão entre as principais características do modelo",
+    "content": "Oportunidade especial para quem quer um bom smartphone 5G sem gastar muito: o Samsung Galaxy A26 está com uma promoção especial, e faltam poucas horas para acabar. Saiba mais sobre o aparelho abaixo e aproveite para comprar o seu:\nOfertas\nSamsung Gal... [1453 chars]",
+    "url": "https://olhardigital.com.br/2025/09/19/reviews/oferta-relampago-smartphone-samsung-galaxy-a26-5g-em-promocao-na-amazon/",
+    "image_url": "https://olhardigital.com.br/wp-content/uploads/2025/09/galaxy-dest.jpg",
+    "published_at": "2025-09-20T00:19:00Z",
+    "category": "geral",
+    "source": "Olhar Digital",
+    "created": "2025-09-20T12:44:03.732Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 53,
+  "fields": {
+    "title": "deputados se dizem “arrependidos” após apoiar PEC da Blindagem",
+    "description": "Deputados que votaram a favor da PEC da Blindagem pedem desculpas, alegam arrependimento e tentam reverter efeitos da proposta.",
+    "content": "Ao menos quatro deputados federais admitiram arrependimento por terem votado a favor da chamada PEC da Blindagem, aprovada pela Câmara dos Deputados na terça-feira (16). Os parlamentares divulgaram vídeos e notas em que pedem desculpas a eleitores e ... [1340 chars]",
+    "url": "https://www.diariodocentrodomundo.com.br/fui-covarde-deputados-se-dizem-arrependidos-apos-apoiar-pec-da-blindagem/",
+    "image_url": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2025/09/imagem-do-whatsapp-de-2025-09-19-as-21-11-02_a2b75e27.jpg",
+    "published_at": "2025-09-20T00:18:00Z",
+    "category": "geral",
+    "source": "Diário do Centro do Mundo",
+    "created": "2025-09-20T12:44:03.735Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 54,
+  "fields": {
+    "title": "Trump assina decreto que cria o \"gold card\"",
+    "description": "\"The Trump Gold Card\" custará US$ 1 milhão para pessoa física; permite trabalhar e morar nos Estados Unidos. Leia no Poder360.",
+    "content": "O presidente dos Estados Unidos, Donald Trump (republicano), assinou nesta 6ª feira (19.set.2025) o decreto que cria oficialmente o “The Trump Gold Card“. Trata-se de um visto permanente para trabalhar e residir em território norte-americano. Custará... [510 chars]",
+    "url": "https://www.poder360.com.br/poder-internacional/trump-assina-decreto-que-cria-o-gold-card/",
+    "image_url": "https://static.poder360.com.br/2025/09/gold-card-trump-848x477.jpg",
+    "published_at": "2025-09-19T23:55:57Z",
+    "category": "geral",
+    "source": "Poder360",
+    "created": "2025-09-20T12:44:03.737Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 55,
+  "fields": {
+    "title": "Navio com carga milionária de combustível estava na fila para descarregar",
+    "description": "ezenas de bilhões de reais podem ter sido sonegados na operação de importação do combustível retido pela Receita Federal em operação realizada nesta sexta-feira.",
+    "content": "\"Já estava fundiado, aguardando ser acoplado. Havia um outro navio demorando para sair. Por cautela, pedimos ajuda da Marinha e fomos até o navio para avisar os responsáveis que havia uma decisão da receita de retenção da carga, para que fosse conduz... [3127 chars]",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/09/19/navio-com-carga-milionaria-de-combustivel-estava-na-fila-para-descarregar-quando-foi-interceptado-no-porto-do-rio.ghtml",
+    "image_url": "https://s2-g1.glbimg.com/dTI5TxeBtF0mk3MftXfeBMqqzcE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/37/41/13944137",
+    "published_at": "2025-09-19T23:33:23Z",
+    "category": "geral",
+    "source": "G1",
+    "created": "2025-09-20T12:44:03.739Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 56,
+  "fields": {
+    "title": "Alessandro Vieira relatará a PEC da Blindagem no Senado",
+    "description": "O senador do MDB deve apresentar um parecer pela inconstitucionalidade da proposta na semana que vem",
+    "content": "O senador Alessandro Vieira (MDB-SE) foi escolhido para relatar a PEC da Blindagem na Comissão de Constituição e Justiça do Senado. O texto, aprovado pela Câmara nesta semana, cria obstáculos à abertura de investigações criminais contra congressistas... [2056 chars]",
+    "url": "https://www.cartacapital.com.br/politica/alessandro-vieira-relatara-a-pec-da-blindagem-no-senado/",
+    "image_url": "https://www.cartacapital.com.br/wp-content/uploads/2025/08/Alessandro-Vieira0.jpg",
+    "published_at": "2025-09-19T23:27:00Z",
+    "category": "geral",
+    "source": "CartaCapital",
+    "created": "2025-09-20T12:44:03.742Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 57,
+  "fields": {
+    "title": "Trump lança ‘Gold Card’ de residência no valor de US$ 1 milhão e encarece taxa de vistos de trabalho",
+    "description": "O objetivo, de acordo com o presidente, é atrair investidores dispostos a gerar empregos nos EUA, reduzir o déficit público e limitar a presença de estrangeiros…",
+    "content": "O presidente dos Estados Unidos, Donald Trump, anunciou nesta sexta-feira (19) duas medidas que mudam as regras de imigração no país. A mais impactante é a criação do chamado “Gold Card”, um visto de residência que poderá ser obtido por estrangeiros ... [1518 chars]",
+    "url": "https://jovempan.com.br/noticias/mundo/trump-lanca-gold-card-de-residencia-no-valor-de-us-1-milhao-e-encarece-taxa-de-vistos-de-trabalho.html",
+    "image_url": "https://jpimg.com.br/uploads/2025/09/eeaff67f604572c5c0910b1ad8d70fe8c4b0807d.jpg",
+    "published_at": "2025-09-19T23:25:13Z",
+    "category": "geral",
+    "source": "Jovem Pan",
+    "created": "2025-09-20T12:44:03.744Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 58,
+  "fields": {
+    "title": "Temporais começam no Rio Grande do Sul após calor de 35ºC",
+    "description": "Temporais começaram na noite desta sexta-feira a partir da fronteira com o Uruguai depois de um dia muito quente em parte do estado.",
+    "content": "Anúncios\nTemporais, que serão numerosos neste fim de semana no Sul do Brasil, começaram na noite desta sexta-feira em áreas próximas da fronteira com o Uruguai, no Sul do Rio Grande do Sul.\nUma massa de ar quente, úmida e instável cobre o Rio Grande ... [1938 chars]",
+    "url": "https://metsul.com/temporais-comecam-no-rio-grande-do-sul-apos-calor-de-35oc/",
+    "image_url": "https://metsul.com/wp-content/uploads/2025/09/sat1909b.jpg",
+    "published_at": "2025-09-19T23:21:15Z",
+    "category": "geral",
+    "source": "MetSul Meteorologia",
+    "created": "2025-09-20T12:44:03.746Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 59,
+  "fields": {
+    "title": "Quem é o deputado que perderá o mandato com o retorno de Celso Sabino à Câmara",
+    "description": "O ministro do Turismo, que é deputado federal licenciado, recebeu um ultimato do União Brasil na quinta-feira e avisou Lula, nesta sexta, que deixará o governo nos próximos dias",
+    "content": "O ministro do Turismo Celso Sabino comunicou ao presidente Lula (PT) nesta sexta-feira 19 que pedirá demissão após o União Brasil determinar a entrega dos cargos no governo. Com isso, ele retomará o mandato de deputado federal, do qual estava licenci... [969 chars]",
+    "url": "https://www.cartacapital.com.br/politica/quem-e-o-deputado-que-perdera-o-mandato-com-o-retorno-de-celso-sabino-a-camara/",
+    "image_url": "https://www.cartacapital.com.br/wp-content/uploads/2025/09/img20250507103200599.jpg",
+    "published_at": "2025-09-19T23:17:00Z",
+    "category": "geral",
+    "source": "CartaCapital",
+    "created": "2025-09-20T12:44:03.749Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 60,
+  "fields": {
+    "title": "Van Hattem sobre pedido para suspender mandato por 30 dias: \"Incredulidade\"",
+    "description": "Corregedoria da Câmara recomendou medida para deputado gaúcho e outros que se envolveram em motim na Mesa Diretora da Câmara",
+    "content": "O deputado federal Marcel van Hattem (Novo-RS) manifestou \"indignação\" e \"incredulidade\" diante de um relatório da Corregedoria da Câmara que pede a suspensão de seu mandato por um período de 30 dias.\n\"Demonstra-se, mais uma vez, que a perseguição co... [1343 chars]",
+    "url": "https://www.cnnbrasil.com.br/politica/van-hattem-pedido-suspensao-mandato/",
+    "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/img20250201164242302.jpg",
+    "published_at": "2025-09-19T23:11:17Z",
+    "category": "geral",
+    "source": "CNN Brasil",
+    "created": "2025-09-20T12:44:03.751Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 61,
+  "fields": {
+    "title": "Ex-Cruzeiro e Flamengo rescinde com clube da Série B após quatro meses parado",
+    "description": "Atacante de 24 anos teve rescisão publicada no Boletim Informativo Diário (BID) nesta sexta-feira (19)",
+    "content": "Ex- Cruzeiro e Flamengo, o atacante Lincoln encerrou sua passagem no Athletic após quatro meses sem atuar pela equipe mineira. O jogador de 24 anos teve a rescisão publicada no Boletim Informativo Diário (BID) nesta sexta-feira (19).\nCria das categor... [999 chars]",
+    "url": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/ex-cruzeiro-e-flamengo-rescinde-com-clube-da-serie-b-apos-quatro-meses-parado",
+    "image_url": "https://medias.itatiaia.com.br/dims4/default/bdabfcc/2147483647/strip/true/crop/2048x1075+0+0/resize/1200x630!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2F70%2F59%2F3af3206a4e9bbf470514f0ca2ac8%2F52365061073-78f92c13ce-k.jpg",
+    "published_at": "2025-09-20T00:17:12Z",
+    "category": "esportes",
+    "source": "Rádio Itatiaia",
+    "created": "2025-09-20T12:44:05.906Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 62,
+  "fields": {
+    "title": "Cria do Flamengo rescinde contrato após 4 meses sem atuar",
+    "description": "Fim da trajetória do atacante Lincoln, ex-Flamengo, no Athletic, equipe que disputa a Série B do Campeonato Brasileiro.",
+    "content": "Lincoln chegou o Athletic-MG em janeiro deste ano\nFim da trajetória do atacante Lincoln, ex-Flamengo, no Athletic, equipe que disputa a Série B do Campeonato Brasileiro. Nesta sexta-feira (19), o jogador revelado pelo Mais Querido rescindiu o contrat... [1553 chars]",
+    "url": "https://colunadofla.com/2025/09/cria-do-flamengo-rescinde-contrato-apos-4-meses-sem-atuar/",
+    "image_url": "https://colunadofla.com/wp-content/uploads/2025/09/lincoln.png",
+    "published_at": "2025-09-19T23:44:21Z",
+    "category": "esportes",
+    "source": "Coluna do Fla",
+    "created": "2025-09-20T12:44:05.912Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 63,
+  "fields": {
+    "title": "Contratação milionária do PSG, lateral do Cruzeiro se despede do clube",
+    "description": "Jogadora se tornou a terceira venda mais cara da história do futebol feminino no Brasil",
+    "content": "Vendida ao PSG, da França, a lateral Isabela Chagas se despediu das ex-companheiras de Cruzeiro, nesta sexta-feira (19), na Toca da Raposa I. Emocionada, ela discursou no refeitório do CT e deixou um recado à torcida celeste e a Pedro Lourenço, presi... [1186 chars]",
+    "url": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/cruzeiro/contratacao-milionaria-do-psg-lateral-do-cruzeiro-se-despede-do-clube",
+    "image_url": "https://medias.itatiaia.com.br/dims4/default/6f76eb0/2147483647/strip/true/crop/608x319+0+53/resize/1200x630!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9e%2Ff6%2Fa764e89d433f9cb2b78a24eacb95%2Fwhatsapp-image-2025-09-19-at-20-01-28.jpeg",
+    "published_at": "2025-09-19T23:02:53Z",
+    "category": "esportes",
+    "source": "Rádio Itatiaia",
+    "created": "2025-09-20T12:44:05.914Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 64,
+  "fields": {
+    "title": "Vai sair? Técnico do Real Madrid expõe situação de Vini Jr: \"Não era momento de falar\"",
+    "description": "Vinicius Júnior não tem sido titular com frequência no Real Madrid (ESP), como era durante a gestão de Carlo Ancelotti.",
+    "content": "Vinicius Júnior tem contrato com o Real Madrid (ESP) até junho de 2027\nVinicius Júnior não tem sido titular com frequência no Real Madrid (ESP), como era durante a gestão de Carlo Ancelotti. Assim, o técnico Xabi Alonso destacou que o ex-Flamengo est... [1691 chars]",
+    "url": "https://colunadofla.com/2025/09/vai-sair-tecnico-do-real-madrid-expoe-situacao-de-vini-jr-nao-era-momento-de-falar/",
+    "image_url": "https://colunadofla.com/wp-content/uploads/2025/08/vini-jr.png",
+    "published_at": "2025-09-19T22:44:44Z",
+    "category": "esportes",
+    "source": "Coluna do Fla",
+    "created": "2025-09-20T12:44:05.916Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 65,
+  "fields": {
+    "title": "Palmeiras atualiza condição física de Khellven; veja detalhes",
+    "description": "Elenco realizou uma atividade de passes em campo reduzido e um trabalho tático posicional comandado pelo técnico Abel Ferreira no Allianz Parque",
+    "content": "O Palmeiras treinou na tarde desta sexta-feira (19), no Allianz Parque, e seguiu a preparação para receber o Fortaleza, às 21h deste sábado (20), na própria arena alviverde, pela 24ª rodada do Campeonato Brasileiro. O lateral-direito Khellven, que so... [3288 chars]",
+    "url": "https://nossopalestra.com.br/noticias/palmeiras-atualiza-condicao-fisica-de-khellven-veja-detalhes/",
+    "image_url": "https://uploads.nossopalestra.com.br/2025/09/19092025_cg_palmeiras_4801_25.jpg",
+    "published_at": "2025-09-19T22:40:34Z",
+    "category": "esportes",
+    "source": "Nosso Palestra",
+    "created": "2025-09-20T12:44:05.919Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 66,
+  "fields": {
+    "title": "Khellven e Gómez preocupam? Palmeiras atualiza condição física do elenco",
+    "description": "O Palmeiras divulgou, na tarde desta sexta-feira (19), atualizações médicas sobre o lateral-direito Khellven e o zagueiro Gómez",
+    "content": "O Palmeiras divulgou, na tarde desta sexta-feira (19), atualizações médicas sobre o lateral-direito Khellven e o zagueiro Gustavo Gómez, titulares na vitória por 2 a 1 sobre o River Plate, fora de casa, pelo jogo de ida das quartas de final da Copa L... [2025 chars]",
+    "url": "https://www.lance.com.br/palmeiras/khellven-e-gomez-preocupam-palmeiras-atualiza-condicao-fisica-do-elenco.html",
+    "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,fit=cover,format=webp/uploads/2025/09/Gustavo-Gomez-zagueiro-do-Palmeiras-aspect-ratio-512-320-1.png",
+    "published_at": "2025-09-19T22:32:38Z",
+    "category": "esportes",
+    "source": "LANCE!",
+    "created": "2025-09-20T12:44:05.921Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 67,
+  "fields": {
+    "title": "Lateral chora em despedida do Cruzeiro e promete: 'Eu volto!'",
+    "description": "Destaque do time feminino, lateral-direita Isa Chagas foi vendida ao PSG, da França, em negociação que renderá R$ 2 milhões aos cofres celestes",
+    "content": "A lateral-direita Isa Chagas chorou na despedida às companheiras e à comissão técnica do time feminino do Cruzeiro. Nesta sexta-feira (19/9), o clube celeste anunciou a venda da jogadora de 24 anos ao Paris Saint-Germain, da França.\nDestaque do time ... [1407 chars]",
+    "url": "https://noataque.com.br/futebol/time/cruzeiro/noticia/2025/09/19/lateral-chora-em-despedida-do-cruzeiro-e-promete-eu-volto/",
+    "image_url": "https://noataque.com.br/wp-content/uploads/2025/09/isa-chagas.png",
+    "published_at": "2025-09-19T22:29:09Z",
+    "category": "esportes",
+    "source": "No Ataque",
+    "created": "2025-09-20T12:44:05.923Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 68,
+  "fields": {
+    "title": "Verdão treina no Allianz Parque e faz trabalhos táticos para enfrentar o Fortaleza",
+    "description": "O Palmeiras treinou na tarde desta sexta-feira (19), no Allianz Parque, e seguiu a preparação para receber o Fortaleza, às 21h deste sábado (20),",
+    "content": "Departamento de Comunicação\nO Palmeiras treinou na tarde desta sexta-feira (19), no Allianz Parque, e seguiu a preparação para receber o Fortaleza, às 21h deste sábado (20), na própria arena alviverde, pela 24ª rodada do Campeonato Brasileiro. O elen... [3556 chars]",
+    "url": "https://www.palmeiras.com.br/noticias/verdao-treina-no-allianz-parque-e-faz-trabalhos-taticos-para-enfrentar-o-fortaleza/",
+    "image_url": "https://sep-bucket-prod.s3.amazonaws.com/wp-content/uploads/2025/09/19092025_cg_palmeiras_4732_17-340x191.jpg",
+    "published_at": "2025-09-19T22:25:59Z",
+    "category": "esportes",
+    "source": "Palmeiras",
+    "created": "2025-09-20T12:44:05.926Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 69,
+  "fields": {
+    "title": "Escalação do Atlético: Sampaoli deve fazer três mudanças contra o Botafogo",
+    "description": "Times se enfrentam no próximo sábado (20), no Nilton Santos, pela 24ª rodada do Campeonato Brasileiro",
+    "content": "O técnico Jorge Sampaoli fará mudanças no time do Atlético para enfrentar o Botafogo neste sábado (20), às 18h30 (horário de Brasília), no Nilton Santos, Rio de Janeiro, em jogo válido pela 24ª rodada do Campeonato Brasileiro. Isso porque o treinador... [1355 chars]",
+    "url": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/escalacao-do-atletico-sampaoli-deve-fazer-tres-mudancas-contra-o-botafogo",
+    "image_url": "https://medias.itatiaia.com.br/dims4/default/c66536f/2147483647/strip/true/crop/665x349+135+136/resize/1200x630!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2F00%2Fc14e221e4ceb81a2b501f29d7759%2F54795768396-14fcf126c2-c.jpg",
+    "published_at": "2025-09-19T22:23:37Z",
+    "category": "esportes",
+    "source": "Rádio Itatiaia",
+    "created": "2025-09-20T12:44:05.928Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 70,
+  "fields": {
+    "title": "veja os 3 jogadores que serão titulares do Palmeiras contra Fortaleza",
+    "description": "Pensando na Libertadores, técnico do Verdão deve preservar titulares e muita gente deve ganhar chances neste sábado pelo Brasileirão Betano.",
+    "content": "Palmeiras com novidades entre titulares diante do Fortaleza\nA vitória por 2 a 1 sobre o River Plate, no Más Monumental, deixou o Palmeiras em vantagem nas quartas de final da Libertadores. Mas também reforçou a necessidade de Abel Ferreira preservar ... [2124 chars]",
+    "url": "https://br.bolavip.com/campeonato-brasileirao/carlos-miguel-puxa-fila-de-mudancas-de-abel-ferreira-no-palmeiras-contra-fortaleza",
+    "image_url": "https://ds-images.bolavip.com/news/image?src=https://images.bolavip.com/webp/br/1200_740/BBR_20250919_BBR_1538676_Carlos-Miguel-Palmeiras-scaled-e1758320109461.webp&width=1200&height=740",
+    "published_at": "2025-09-19T22:22:16Z",
+    "category": "esportes",
+    "source": "Bolavip Brasil",
+    "created": "2025-09-20T12:44:05.931Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 84,
+  "fields": {
+    "title": "veja números e ganhadores do 3491 (19/09)",
+    "description": "O sorteio do concurso 3491 da Lotofácil aconteceu na noite desta sexta-feira (19), às 20h. O prêmio estava estimado em R$ 1,80 milhão",
+    "content": "Quer saber resultados de todas as loterias? Clique aqui!\nO sorteio do concurso 3491 da Lotofácil aconteceu na noite desta sexta-feira (19), às 20h. O prêmio desta loteria estava estimado em R$ 1,80 milhão.\nOs números sorteados da Lotofácil 3491 foram... [3923 chars]",
+    "url": "https://olhardigital.com.br/2025/09/19/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3491-sexta-19-09/",
+    "image_url": "https://olhardigital.com.br/wp-content/uploads/2025/09/resultado_lotofacil_concurso_3491.png",
+    "published_at": "2025-09-19T23:24:25Z",
+    "category": "negócios",
+    "source": "Olhar Digital",
+    "created": "2025-09-20T12:44:10.270Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 85,
+  "fields": {
+    "title": "Ação denuncia Santander no show da Katy Perry: “Não respeita funcionários”",
+    "description": "Material gráfico, em inglês, foi entregue para os fãs da cantora na entrada da apresentação em Brasília. Santander patrocina turnê",
+    "content": "Fãs da cantora Katy Perry que chegaram ao estádio Mané Garrincha, em Brasília (DF), onde a cantora se apresenta na noite desta sexta-feira (19/9), receberam panfletos com críticas ao banco Santander, que patrocina a turnê da estrela do pop no Brasil.... [1385 chars]",
+    "url": "https://www.metropoles.com/colunas/dinheiro-e-negocios/acao-denuncia-santander-no-show-da-katy-perry-nao-respeita-funcionarios",
+    "image_url": "https://uploads.metroimg.com/wp-content/uploads/2025/09/19200211/santander-3.jpg",
+    "published_at": "2025-09-19T23:07:00Z",
+    "category": "negócios",
+    "source": "Metrópoles",
+    "created": "2025-09-20T12:44:10.272Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 86,
+  "fields": {
+    "title": "Mercado do boi gordo: veja como os preços encerraram a semana",
+    "description": "Escalas de abate cheias e demanda doméstica em baixa são fatores que derrubam preços da arroba do boi gordo",
+    "content": "O mercado físico do boi gordo encerra a semana apresentando manutenção do padrão das negociações em grande parte do país.\nO analista da consultoria Safras & Mercado Fernando Henrique Iglesias ressalta que em diversas regiões as indústrias ainda se de... [1499 chars]",
+    "url": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-veja-como-os-precos-encerraram-a-semana/",
+    "image_url": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/Boi-nelore-no-pasto-1.jpg",
+    "published_at": "2025-09-19T23:03:16Z",
+    "category": "negócios",
+    "source": "Canal Rural",
+    "created": "2025-09-20T12:44:10.275Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 87,
+  "fields": {
+    "title": "Quem é Emmanoel Schmidt, economista que será o novo presidente dos Correios",
+    "description": "A indicação foi aprovada nesta sexta-feira pelo Conselho de Administração da empresa",
+    "content": "O economista Emmanoel Schmidt Rondon será o novo presidente dos Correios. A indicação foi aprovada nesta sexta-feira 19 pelo Conselho de Administração da empresa.\nCom a decisão, Schmidt Rondon deve assumir o cargo na próxima segunda-feira 22. Ele sub... [1850 chars]",
+    "url": "https://www.cartacapital.com.br/economia/quem-e-emmanoel-schmidt-economista-que-sera-o-novo-presidente-dos-correios/",
+    "image_url": "https://www.cartacapital.com.br/wp-content/uploads/2025/09/emmanoel-schmidt.jpg",
+    "published_at": "2025-09-19T22:17:00Z",
+    "category": "negócios",
+    "source": "CartaCapital",
+    "created": "2025-09-20T12:44:10.277Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 88,
+  "fields": {
+    "title": "Trump eleva para mais de R$ 500 mil taxa do visto para trabalhadores especializados",
+    "description": "Vistos H-1B permitem que trabalhadores estrangeiros com qualificações específicas trabalhem nos Estados Unidos",
+    "content": "O presidente dos Estados Unidos, Donald Trump, anunciará, nesta sexta-feira (19), uma taxa de 100 mil dólares (532 mil reais) para os vistos de trabalho H-1B, criados para trabalhadores especializados, e muito utilizados no setor tecnológico.\nSiga o ... [1516 chars]",
+    "url": "https://www.correiobraziliense.com.br/mundo/2025/09/7252620-trump-eleva-para-mais-de-rs-500-mil-taxa-do-visto-para-trabalhadores-especializados.html",
+    "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2025/09/08/675x450/1_000-73rt7bb-59033537.jpg?20250910075138?20250910075138",
+    "published_at": "2025-09-19T22:11:00Z",
+    "category": "negócios",
+    "source": "Correio Braziliense",
+    "created": "2025-09-20T12:44:10.279Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 89,
+  "fields": {
+    "title": "Ozempic em comprimido? Estudo mostra eficácia da semaglutida oral na perda de peso",
+    "description": "Estudo sugere comprimido como uma alternativa eficaz às injeções",
+    "content": "No estudo, 205 pessoas receberam doses diárias de 25 mg de semaglutida em comprimidos, enquanto 102 receberam placebo. Todos os participantes, de quatro países, estavam acima do peso no início da pesquisa e receberam também orientações sobre dieta e ... [1391 chars]",
+    "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2025/09/ozempic-em-comprimido-estudo-mostra-eficacia-da-semaglutida-oral-na-perda-de-peso.ghtml",
+    "image_url": "https://s2-epocanegocios.glbimg.com/cPM7QdTQDzNEmg8eRXAjjEcaSIQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2025/b/3/Ah6cuuRA2GMLyBy9z5fg/hanh-com-um-comprimido.jpg",
+    "published_at": "2025-09-19T22:07:01Z",
+    "category": "negócios",
+    "source": "Época Negócios",
+    "created": "2025-09-20T12:44:10.281Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 90,
+  "fields": {
+    "title": "Confira os números sorteados hoje",
+    "description": "Confira o último resultado da Lotofácil, do concurso 3491 desta sexta-feira, 19/9, com prêmio de R$ 1,8 milhões. Clique aqui.",
+    "content": "O concurso 3491 da Lotofácil foi sorteado na noite desta sexta-feira (19/9) e pagará até R$ 1,8 milhões para quem acertar as quinze dezenas sorteadas. A Caixa Econômica Federal realizou o sorteio no Espaço da Sorte, em São Paulo, e o transmitiu pelo ... [1824 chars]",
+    "url": "https://www.otempo.com.br/loterias/2025/9/19/lotofacil-resultado-de-hoje-3491-sexta-feira-19-9-veja-os-numeros-sorteados-no-concurso",
+    "image_url": "https://www.otempo.com.br/content/dam/betim/loterias/loterias-premio-da-lotofacil-resultado-da-lotofacil-lotofacil-loterias-da-caixa-resultado-loteria-1714740142.jpg",
+    "published_at": "2025-09-19T22:00:07Z",
+    "category": "negócios",
+    "source": "O TEMPO",
+    "created": "2025-09-20T12:44:10.284Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 101,
+  "fields": {
+    "title": "Árbitro que errou contra o Flamengo será cortado de Mundial sub",
+    "description": "Veja resultados, notícias, entrevistas, fotos, vídeos e os bastidores do esporte. Acompanhe ao vivo os principais eventos esportivos no Brasil e do mundo.",
+    "content": "A Conmebol pediu à Fifa a exclusão do árbitro Andres Rojas do Mundial sub-20 que será disputado no Chile. O motivo foi o erro no jogo Flamengo x Estudiantes em que ele expulsou o rubro-negro Plata após este receber um chute no pé. Assim, é certo o co... [1001 chars]",
+    "url": "https://www.uol.com.br/esporte/futebol/colunas/rodrigo-mattos/2025/09/19/conmebol-pede-e-arbitro-de-jogo-do-flamengo-sera-cortado-do-mundial-sub-20.htm",
+    "image_url": "https://conteudo.imguol.com.br/c/esporte/5b/2025/09/19/arbitro-expulsa-plata-durante-flamengo-e-estudiantes-pela-libertadores-1758321271892_v2_615x300.jpg",
+    "published_at": "2025-09-20T00:45:05Z",
+    "category": "geral",
+    "source": "UOL",
+    "created": "2025-09-20T12:45:13.044Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 141,
+  "fields": {
+    "title": "Eduardo ataca 'acordo infame' e insinua que EUA podem punir Paulinho",
+    "description": "Veja as principais notícias e manchetes do dia no Brasil e no Mundo. Leia textos e assista a vídeos de Política, Cotidiano, Crimes e mais.",
+    "content": "O deputado federal Eduardo Bolsonaro (PL-SP) criticou as negociações do Congresso para reduzir as penas de Jair Bolsonaro (PL) e outros envolvidos nos atos golpistas. Ele insinuou que o deputado Paulinho da Força (Solidariedade-SP), relator do \"PL da... [1990 chars]",
+    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/09/19/eduardo-ataca-acordo-infame-e-insinua-que-eua-podem-punir-paulinho.htm",
+    "image_url": "https://conteudo.imguol.com.br/c/noticias/e3/2025/08/24/eduardo-bolsonaro-em-entrevista-ao-programa-de-steve-bannon-assessor-politico-do-governo-trump-1756064126949_v2_615x300.png",
+    "published_at": "2025-09-20T00:46:27Z",
+    "category": "geral",
+    "source": "UOL Notícias",
+    "created": "2025-09-20T12:49:17.889Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 191,
+  "fields": {
+    "title": "Governadora Raquel Lyra dá pontapé inicial para demolição da Penitenciária Professor Barreto Campelo",
+    "description": "Acompanhe as últimas notícias de Pernambuco, Brasil e do mundo - Notícias sempre atualizadas",
+    "content": "Na Ilha de Itamaracá, a governadora Raquel Lyra (PSD) conduziu, nesta sexta-feira (19), a demolição simbólica do pavilhão B da Penitenciária Professor Barreto Campelo, um marco no processo de reestruturação histórica do sistema prisional de Pernambuc... [5706 chars]",
+    "url": "https://www.folhape.com.br/colunistas/blogdafolha/governadora-raquel-lyra-da-pontape-inicial-para-demolicao-da-penitenciaria-professor-barreto-campelo/53152/",
+    "image_url": "https://cdn.folhape.com.br/img/c/800/600/dn_arquivo/2025/09/whatsapp-image-2025-09-19-at-215755.jpeg",
+    "published_at": "2025-09-20T01:00:00Z",
+    "category": "geral",
+    "source": "Folha De Pernambuco",
+    "created": "2025-09-20T13:00:24.850Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 192,
+  "fields": {
+    "title": "Moody’s mantém rating do Banco do Brasil estável",
+    "description": "Agência reconheceu a franquia do banco bem estabelecida como o segundo maior banco por ativos totais no País em junho de 2025. Leia mais",
+    "content": "A Moody’s informou na sexta-feira (19), as classificações de depósitos em moeda local e estrangeira de longo e curto prazo do Banco do Brasil em Ba1 e Not Prime, respectivamente, após a afirmação da Avaliação de Crédito Base (BCA) e BCA Ajustada do b... [2749 chars]",
+    "url": "https://diariodocomercio.com.br/financas/moodys-mantem-rating-banco-brasil-estavel/",
+    "image_url": "https://diariodocomercio.com.br/wp-content/uploads/2025/09/predio-bb.jpeg",
+    "published_at": "2025-09-20T00:55:25Z",
+    "category": "geral",
+    "source": "Diario Do Comercio",
+    "created": "2025-09-20T13:00:24.856Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 193,
+  "fields": {
+    "title": "Até o Ceará de ônibus: a saga de clube gaúcho para disputar competição de futsal",
+    "description": "Delegação da SER Santiago percorreu quase 4 mil km até o Nordeste e faz boa campanha na Taça Brasil - 1ª Divisão",
+    "content": "A distância pode até assustar, ainda mais se o meio de locomoção não for um avião. Entre Santiago, município da Região Central do Estado, e São João do Jaguaribe, no interior do Ceará, são 3.994 km. E foi essa distância que a delegação da SER Santiag... [5362 chars]",
+    "url": "https://gauchazh.clicrbs.com.br/esportes/futsal/noticia/2025/09/ate-o-ceara-de-onibus-a-saga-de-clube-gaucho-para-disputar-competicao-de-futsal-cmfregq1y02h5014y155fx385.html",
+    "image_url": "https://www.rbsdirect.com.br/filestore/3/1/9/3/2/4/5_9a0d8d7a0f63af6/5423913_9d060f786ffa58f.jpg?w=1200&h=630&a=c&version=1575255600",
+    "published_at": "2025-09-20T00:51:16Z",
+    "category": "geral",
+    "source": "Zero Hora",
+    "created": "2025-09-20T13:00:24.859Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 194,
+  "fields": {
+    "title": "Jogador com mais vitórias na Libertadores, Weverton celebra marca e busca mais uma taça com o Palmeiras",
+    "description": "Veja resultados, notícias, entrevistas, fotos, vídeos e os bastidores do esporte. Acompanhe ao vivo os principais eventos esportivos no Brasil e do mundo.",
+    "content": "A vitória do Palmeiras por 2 a 1 contra o River Plate, na Argentina, pela ida das quartas de final da Libertadores, foi ainda mais especial para o goleiro Weverton, que se isolou como o jogador com mais vitórias na história da competição continental.... [2582 chars]",
+    "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2025/09/19/jogador-com-mais-vitorias-na-libertadores-weverton-celebra-marca-e-busca-mais-uma-taca-com-o-palmeiras.htm",
+    "image_url": "https://conteudo.imguol.com.br/c/_layout/v3/jupiter/share.png",
+    "published_at": "2025-09-20T00:51:13Z",
+    "category": "geral",
+    "source": "UOL",
+    "created": "2025-09-20T13:00:24.863Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 195,
+  "fields": {
+    "title": "Rússia nega que seus caças tenham violado espaço aéreo da Estônia",
+    "description": "Segundo o Kremlin, as aeronaves sobrevoaram águas neutras do Mar Báltico ao se deslocarem do noroeste da Rússia",
+    "content": "O Ministério da Defesa da Rússia negou nesta sexta-feira (19) que seus caças tenham violado o espaço aéreo da Estônia.\nSegundo o Kremlin, as aeronaves sobrevoaram águas neutras do Mar Báltico ao se deslocarem do noroeste da Rússia para a zona russa d... [965 chars]",
+    "url": "https://www.cnnbrasil.com.br/internacional/russia-nega-que-cacas-tenham-violado-espaco-aereo-da-estonia/",
+    "image_url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/2025-06-30T113745Z_1_LYNXMPEL5T0HR_RTROPTP_4_RUSSIA-DAILYLIFE.jpg",
+    "published_at": "2025-09-20T00:56:24Z",
+    "category": "geral",
+    "source": "CNN Brasil",
+    "created": "2025-09-20T13:00:35.323Z"
+  }
+},
+{
+  "model": "api.news",
+  "pk": 196,
+  "fields": {
+    "title": "John Textor assiste à derrota do RWDM Brussels na Bélgica e é alvo de novos protestos",
+    "description": "Acionista da SAF do Botafogo, John Textor esteve presente nesta sexta-feira (19/9) na derrota do RWDM Brussels para o Lierse por 2 a 0, fora de casa, pela...",
+    "content": "Acionista da SAF do Botafogo, John Textor esteve presente nesta sexta-feira (19/9) na derrota do RWDM Brussels para o Lierse por 2 a 0, fora de casa, pela sexta rodada da Challenger Pro League – a segunda divisão da Bélgica.\nO RWDM vinha de goleada p... [768 chars]",
+    "url": "https://www.fogaonet.com/noticias-do-botafogo/john-textor-assiste-derrota-rwdm-brussels-belgica-alvo-novos-protestos/",
+    "image_url": "https://i.fogaonet.com/crop/q:90/rs:fill:1200:630:1/g:ce/plain/wp-content/uploads/2025/09/john-textor-2-2.jpg",
+    "published_at": "2025-09-20T00:56:59Z",
+    "category": "esportes",
+    "source": "FogãoNET",
+    "created": "2025-09-20T13:00:35.491Z"
+  }
+}
+]
